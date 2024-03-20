@@ -1,5 +1,5 @@
 # Bug-Bounty-Hunter-Articles
-
+### 👋 Hey fellow hackers, can you click Star? Thank you. :gift_heart:
 ## Contents 
 
  - [Cross Site Scripting (XSS)](https://github.com/Hacker-Fighter001/BreadcrumbsBug-Bounty-Hunter-Articles#cross-site-scripting-xss)
