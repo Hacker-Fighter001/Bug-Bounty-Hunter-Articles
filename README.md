@@ -2,8 +2,8 @@
 ### 👋 Hey fellow hackers, can you click Star? Thank you. :gift_heart:
 ## Contents 
 
- - [Cross Site Scripting (XSS)](https://github.com/Hacker-Fighter001/BreadcrumbsBug-Bounty-Hunter-Articles#cross-site-scripting-xss)
- - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
+ - [Cross Site Scripting (XSS)](https://github.com/Hacker-Fighter001/Bug-Bounty-Hunter-Articles#cross-site-scripting-xss)
+ - [Cross Site Request Forgery (CSRF)](https://github.com/Hacker-Fighter001/Bug-Bounty-Hunter-Articles#cross-site-request-forgery-csrf)
  - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
  - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#local-file-inclusion-lfi)
  - [Subdomain Takeover](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#subdomain-takeover)
